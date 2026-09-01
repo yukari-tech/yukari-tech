@@ -49,16 +49,6 @@ FastAPI を使った Web サービスのバックエンド開発を 3 年ほど�
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yukari-tech&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=B490D6&icon_color=FFC1E3&text_color=4A4A4A" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukari-tech&layout=compact&hide_border=true&bg_color=00000000&title_color=B490D6&text_color=4A4A4A" width="42%" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
