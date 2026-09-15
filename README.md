@@ -20,7 +20,7 @@
 
 [![Web Engineer Portfolio](https://img.shields.io/badge/Portfolio-Web%20Engineer-FFD1DC?style=for-the-badge&logoColor=4A4A4A)](https://claude.ai/code/artifact/a1b3e2c7-b0f3-4119-91f2-903e9790cd88)
 [![Technical Artist Portfolio](https://img.shields.io/badge/Portfolio-Technical%20Artist-D8C7F0?style=for-the-badge&logoColor=4A4A4A)](https://claude.ai/code/artifact/b9e8f21e-a287-4405-aec4-c7b5853d1a45)
-[![Resume](https://img.shields.io/badge/Resume-職務経歴書-B8CCF0?style=for-the-badge&logoColor=4A4A4A)](https://claude.ai/artifact/JAMs7W36mFX6NRDFUV8BWM)
+[![Resume](https://img.shields.io/badge/Portfolio-Resume-B8CCF0?style=for-the-badge&logoColor=4A4A4A)](https://claude.ai/artifact/JAMs7W36mFX6NRDFUV8BWM)
 
 </div>
 
